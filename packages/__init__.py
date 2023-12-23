@@ -1,2 +1,2 @@
-from calculator import *
-from tests import *
+from packages.calculator import *
+from packages.tests import *

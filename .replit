@@ -1,0 +1,1 @@
+run = "pip install -e git+https://github.com/gabyshut/lr2-prog.git@main#egg=lr2prog && python main.py"

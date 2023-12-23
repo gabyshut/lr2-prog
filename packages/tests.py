@@ -1,4 +1,4 @@
-from package.calculator import calculate
+from packages.calculator import calculate
 
 '''Проверим как работает сумма, произведение, деление'''
 # Проверим сумму
